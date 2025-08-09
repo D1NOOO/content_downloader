@@ -1,0 +1,5 @@
+flask==2.3.2
+beautifulsoup4==4.9.3
+selenium==4.1.0
+lxml==4.9.1
+# 注意：使用Edge浏览器需要安装Microsoft Edge WebDriver
